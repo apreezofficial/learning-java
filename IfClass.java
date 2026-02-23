@@ -6,7 +6,7 @@ public class IfClass {
         if(javascript_easy){
             System.out.println("Javacript is easy");
         } else{
-            System.out.println("Jvascript Hard");
+            System.out.println("Javascript Hard");
         }
         //time if else conditions
         int time = 20;
@@ -21,7 +21,7 @@ public class IfClass {
         }
         //shorthand
         time = 18;
-       String result = (time > 18) ? "Good Day" : "Good Eevening";
+       String result = (time > 18) ? "Good Day" : "Good Evening";
        System.out.println(result);
     }
 }
